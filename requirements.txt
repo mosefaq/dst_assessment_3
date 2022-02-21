@@ -5,3 +5,4 @@ numpy==1.20.1
 pyLDAvis==3.3.1
 scikit_learn==1.0.2
 googledrivedownloader==0.4
+matplotlib==3.4.3
