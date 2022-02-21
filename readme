@@ -19,7 +19,7 @@ The report takes the following structure:
 * 01 - Introduction.ipynb
 * 02a - Data Processing.ipynb
 * 02b - Data Download.ipynb
-* 03 - Term Frequency - SVM Classifier .ipynb
+* 03 - Term Frequency - SVM Classifier.ipynb
 * 04 - LDA.ipynb
 * 05 - HDP.ipynb
 * 06 - Conclusion.ipynb
