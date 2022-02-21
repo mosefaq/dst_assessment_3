@@ -17,7 +17,8 @@ All report content is in the directory:
 The report takes the following structure:
 
 * 01 - Introduction.ipynb
-* 02 - Data Processing.ipynb
+* 02a - Data Processing.ipynb
+* 02b - Data Download.ipynb
 * 03 - Term Frequency - SVM Classifier .ipynb
 * 04 - LDA.ipynb
 * 05 - HDP.ipynb
